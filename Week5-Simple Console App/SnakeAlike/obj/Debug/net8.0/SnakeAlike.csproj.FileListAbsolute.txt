@@ -1,0 +1,15 @@
+C:\Users\mrtdn\OneDrive\Masaüstü\MAcademy\Week5-Simple Console App\SnakeAlike\bin\Debug\net8.0\SnakeAlike.exe
+C:\Users\mrtdn\OneDrive\Masaüstü\MAcademy\Week5-Simple Console App\SnakeAlike\bin\Debug\net8.0\SnakeAlike.deps.json
+C:\Users\mrtdn\OneDrive\Masaüstü\MAcademy\Week5-Simple Console App\SnakeAlike\bin\Debug\net8.0\SnakeAlike.runtimeconfig.json
+C:\Users\mrtdn\OneDrive\Masaüstü\MAcademy\Week5-Simple Console App\SnakeAlike\bin\Debug\net8.0\SnakeAlike.dll
+C:\Users\mrtdn\OneDrive\Masaüstü\MAcademy\Week5-Simple Console App\SnakeAlike\bin\Debug\net8.0\SnakeAlike.pdb
+C:\Users\mrtdn\OneDrive\Masaüstü\MAcademy\Week5-Simple Console App\SnakeAlike\obj\Debug\net8.0\SnakeAlike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtdn\OneDrive\Masaüstü\MAcademy\Week5-Simple Console App\SnakeAlike\obj\Debug\net8.0\SnakeAlike.AssemblyInfoInputs.cache
+C:\Users\mrtdn\OneDrive\Masaüstü\MAcademy\Week5-Simple Console App\SnakeAlike\obj\Debug\net8.0\SnakeAlike.AssemblyInfo.cs
+C:\Users\mrtdn\OneDrive\Masaüstü\MAcademy\Week5-Simple Console App\SnakeAlike\obj\Debug\net8.0\SnakeAlike.csproj.CoreCompileInputs.cache
+C:\Users\mrtdn\OneDrive\Masaüstü\MAcademy\Week5-Simple Console App\SnakeAlike\obj\Debug\net8.0\SnakeAlike.sourcelink.json
+C:\Users\mrtdn\OneDrive\Masaüstü\MAcademy\Week5-Simple Console App\SnakeAlike\obj\Debug\net8.0\SnakeAlike.dll
+C:\Users\mrtdn\OneDrive\Masaüstü\MAcademy\Week5-Simple Console App\SnakeAlike\obj\Debug\net8.0\refint\SnakeAlike.dll
+C:\Users\mrtdn\OneDrive\Masaüstü\MAcademy\Week5-Simple Console App\SnakeAlike\obj\Debug\net8.0\SnakeAlike.pdb
+C:\Users\mrtdn\OneDrive\Masaüstü\MAcademy\Week5-Simple Console App\SnakeAlike\obj\Debug\net8.0\SnakeAlike.genruntimeconfig.cache
+C:\Users\mrtdn\OneDrive\Masaüstü\MAcademy\Week5-Simple Console App\SnakeAlike\obj\Debug\net8.0\ref\SnakeAlike.dll
